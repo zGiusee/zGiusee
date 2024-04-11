@@ -1,4 +1,4 @@
-# Ciao, e benvenuto sul mio profilo GitHub! 👻
+# Benvenuto sul mio profilo GitHub! 👻
 
 <div>
   <p>
