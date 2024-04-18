@@ -12,7 +12,7 @@ Qui sotto in evidenza troverete:
 - Tutti i linguaggi Frontend e Backend che conosco (con Framework e Librerie annesse). 👾
 - Ed infine il mio profilo Linkedin. ✔️
 
-Contattami qui:
+## Contattami qui:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/giuseppe-belforte-064381243/))
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:giusebelforte@gmail.com)
 
