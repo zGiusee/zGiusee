@@ -13,7 +13,9 @@ Qui sotto in evidenza troverete:
 - Ed infine il mio profilo Linkedin. ✔️
 
 ## Contattami qui:
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/giuseppe-belforte-064381243/))
+<a href="https://www.linkedin.com/in/giuseppe-belforte-064381243/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</a>
 [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:giusebelforte@gmail.com)
 
 ## Le mie skills
