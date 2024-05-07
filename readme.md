@@ -5,7 +5,9 @@
     sono Giuseppe, un Jr. Full Stack Web Developer 👨‍💻
   </p>
 </div>
+
 Qui sotto in evidenza troverete:
+
 - Alcuni dei progetti che mi sono piaciuti di più. 🚧
 - Tutti i linguaggi Frontend e Backend che conosco (con Framework e Librerie annesse). 👾
 - Ed infine il mio profilo Linkedin. ✔️
