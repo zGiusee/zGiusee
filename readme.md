@@ -12,5 +12,26 @@ Qui sotto in evidenza troverete:
 
 ## Le mie skills
 
-| Frontend <br/> <br/> [![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg) <br/>[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg) <br/><br/> Backend <br/><br/> [![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg) |
-[![My Skills](https://skills.thijs.gg/icons?i=html)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=css)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=sass)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=bootstrap)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=javascript)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vue)](https://skills.thijs.gg) [![My Skills](https://skills.thijs.gg/icons?i=vite)](https://skills.thijs.gg)[![My Skills](https://skills.thijs.gg/icons?i=mysql,php,laravel,git)](https://skills.thijs.gg)
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="30" alt="sass logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vue" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
+</div>
