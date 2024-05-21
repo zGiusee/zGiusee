@@ -36,4 +36,8 @@ Qui sotto in evidenza troverete:
   <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
   <img width="22" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="git logo"  />
+  <img width="22" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="git logo"  />
 </div>
